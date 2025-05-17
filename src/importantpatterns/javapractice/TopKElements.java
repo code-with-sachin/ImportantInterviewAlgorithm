@@ -1,6 +1,5 @@
 package importantpatterns.javapractice;
 
-import patterns.java.FastAndSlowPointers.ListNode;
 import java.util.*;
 
 public class TopKElements {
